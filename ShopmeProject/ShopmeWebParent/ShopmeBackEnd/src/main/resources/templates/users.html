@@ -91,8 +91,11 @@
 					<td>[[${user.email}]]</td>
 					<td>[[${user.roles}]]</td>
 					<td>
-						<a th:if="${user.enabled == true}"class="fa fa-check-circle fa-2xl" style="color: #2474ff;" href=""></a>
-						<a th:if="${user.enabled == false}"class="fa fa-circle fa-2xl" style="color: #6c7584;" href=""></a>
+						<a th:if="${user.enabled == true}"class="fa fa-check-circle fa-2xl" style="color: #2474ff;" 
+							th:href="@{'/users/' + ${user.id} + '/enabled/false'}" title="Disable this user"></a>
+							
+						<a th:if="${user.enabled == false}"class="fa fa-circle fa-2xl" style="color: #6c7584;" 
+							th:href="@{'/users/' + ${user.id} + '/enabled/true'}" title="Enable this user"></a>
 					</td>
 					<td>
 						<a class="fa fa-regular fa-pen-to-square fa-2xl" style="color: #2dd238;" th:href="@{'/users/edit/' + ${user.id}}"
