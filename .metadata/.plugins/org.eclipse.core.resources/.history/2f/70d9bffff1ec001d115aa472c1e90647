@@ -1,0 +1,14 @@
+package com.shopme.admin.security;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class WebSecurityConfig {
+	
+	@Bean
+	public UserDetailsService userDetailsSerice() {
+		
+	}
+
+}

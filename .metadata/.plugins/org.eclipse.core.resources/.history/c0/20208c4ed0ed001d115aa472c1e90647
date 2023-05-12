@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeLeaf.org">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<title>Home - Shopme Admin</title>
+	<link rel="stylesheet" type="text/css" th:href="@{/webjars/bootstrap/5.2.3/css/bootstrap.min.css}"/>
+	<link rel="stylesheet" type="text/css" th:href="@{/fontawesome/all.css}">
+	<script type="text/javascript" th:src="@{/webjars/jquery/3.6.3/jquery.min.js}"></script>
+	<script type="text/javascript" th:src="@{/webjars/bootstrap/5.2.3/js/bootstrap.min.js}"></script>
+	
+</head>
+<body>
+<div class="container-fluid">
+	<div>
+		<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+			<a class="navbar-brand" th:href="@{/}">
+			<img th:src="@{/images/ShopmeAdminSmall.png}"/>
+			</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#topNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="topNavbar">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/users}">Users</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/categories}">Categories</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/brands}">Brands</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/products}">Products</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/customers}">Customers</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/shipping}">Shipping</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/orders}">Orders</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/report}">Sales Report</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/articles}">Articles</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/menus}">Menus</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" th:href="@{/settings}">Settings</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</div>
+	<div>
+		<h2>Manage Users</h2>
+		<a th:href="@{/users/new}">Create New User</a>
+	</div>
+	
+	<div th:if="${message != null}" class="alert alert-success text-center"> 
+		[[${message}]]
+	</div>
+	
+	<div>
+		<table class="table table-bordered table-striped table-hover table-responsive">
+			<thead class="table-dark">
+				<tr>
+					<th>User ID</th>
+					<th>Photos</th>
+					<th>First Name</th>
+					<th>Last Name</th>
+					<th>Email</th>
+					<th>Roles</th>
+					<th>Enabled</th>
+					<th></th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="user : ${listUsers}">
+					<td>[[${user.id}]]</td>
+					<td><span class="fa-solid fa-image-portrait fa-3x" style="color: #828da1;"></span></td>
+					<td>[[${user.firstName}]]</td>
+					<td>[[${user.lastName}]]</td>
+					<td>[[${user.email}]]</td>
+					<td>[[${user.roles}]]</td>
+					<td>
+						<a th:if="${user.enabled == true}"class="fa fa-check-circle fa-2xl" style="color: #2474ff;" href=""></a>
+						<a th:if="${user.enabled == false}"class="fa fa-cross-circle fa-2xl" style="color: #6c7584;" href=""></a>
+					</td>
+					<td>
+						<a class="fa fa-regular fa-pen-to-square fa-2xl" style="color: #2dd238;"></a>
+						&nbsp; 
+						<a class="fa fa-trash fa-2x"  style="color: #ff1f1f;"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div class="text-center">
+		<p>Shopme Control Panel - Copyright &copy; Shopme</p>
+	</div>
+</div>
+</body>
+</html>

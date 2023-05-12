@@ -76,9 +76,7 @@ public class Role {
 
 	@Override
 	public String toString() {
-		StringBuilder builder = new StringBuilder();
-		builder.append("Role [name=").append(name).append("]");
-		return builder.toString();
+		return this.name;
 	}
 	
 	
