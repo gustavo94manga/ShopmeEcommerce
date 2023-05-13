@@ -3672,3 +3672,78 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-c
 2023-05-12 16:52:09,894 [Worker-553: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2023-05-12 16:52:10,072 [Worker-553: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src/main/resources to target/classes
 2023-05-12 16:52:10,073 [Worker-553: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:18:32,681 [Worker-556: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:18:32,686 [Worker-556: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:18:32,693 [Worker-556: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:19:08,897 [Worker-561: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:19:08,899 [Worker-561: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:19:08,902 [Worker-561: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:24:27,359 [Worker-562: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:24:27,360 [Worker-562: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:24:27,363 [Worker-562: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:29:15,846 [Worker-563: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:29:15,847 [Worker-563: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:29:15,850 [Worker-563: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:29:52,025 [Worker-563: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:29:52,026 [Worker-563: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:29:52,027 [Worker-563: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:34:04,325 [Worker-565: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:34:04,326 [Worker-565: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:34:04,327 [Worker-565: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:36:37,483 [Worker-564: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:36:37,483 [Worker-564: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:36:37,485 [Worker-564: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:40:36,439 [Worker-571: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:40:36,440 [Worker-571: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:40:36,449 [Worker-571: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:40:55,164 [Worker-569: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:40:55,164 [Worker-569: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:40:55,166 [Worker-569: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:41:07,631 [Worker-569: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:41:07,632 [Worker-569: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:41:07,634 [Worker-569: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:42:15,908 [Worker-570: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:42:15,909 [Worker-570: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:42:15,910 [Worker-570: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:42:35,797 [Worker-567: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:42:35,798 [Worker-567: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:42:35,801 [Worker-567: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:43:31,539 [Worker-570: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:43:31,540 [Worker-570: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:43:31,542 [Worker-570: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:44:03,917 [Worker-571: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:44:03,918 [Worker-571: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:44:03,921 [Worker-571: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:51:10,783 [Worker-573: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:51:10,785 [Worker-573: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:51:10,788 [Worker-573: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:52:43,433 [Worker-573: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:52:43,434 [Worker-573: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:52:43,440 [Worker-573: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:53:38,305 [Worker-575: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:53:38,306 [Worker-575: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:53:38,309 [Worker-575: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 10:59:20,225 [Worker-577: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 10:59:20,226 [Worker-577: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 10:59:20,228 [Worker-577: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:00:56,322 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 11:00:56,583 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src/main/resources to target/classes
+2023-05-13 11:00:56,592 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:02:46,179 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 11:02:46,418 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 11:02:46,419 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:05:15,806 [Worker-580: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 11:05:15,850 [Worker-580: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src/main/resources to target/classes
+2023-05-13 11:05:15,851 [Worker-580: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:07:32,990 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 11:07:32,998 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src/main/resources to target/classes
+2023-05-13 11:07:32,999 [Worker-578: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:11:05,960 [Worker-580: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 11:11:05,965 [Worker-580: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src/main/resources to target/classes
+2023-05-13 11:11:05,966 [Worker-580: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:13:15,822 [Worker-574: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-05-13 11:13:15,838 [Worker-574: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 15 resources from src/main/resources to target/classes
+2023-05-13 11:13:15,840 [Worker-574: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
+2023-05-13 11:14:29,592 [Worker-579: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 11:14:29,593 [Worker-579: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-05-13 11:14:29,595 [Worker-579: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/angelgarza/SD/Java/ShopmeEcommerce/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/test/resources
